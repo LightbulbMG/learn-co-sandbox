@@ -9,3 +9,5 @@ function outerFunction() {
 }
 
 var myScope = outterFunction();
+
+myScope;
